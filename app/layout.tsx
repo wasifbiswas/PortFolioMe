@@ -22,7 +22,7 @@ export default function RootLayout({
         <link
           rel="icon"
           href="https://img.freepik.com/premium-vector/letter-w-icon-logo_38694-10.jpg"
-          sizes="any" 
+          sizes="any"
         />
       </head>
       <body className={inter.className}>
